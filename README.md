@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello world!
+### I am a Java developer from Russia.
+### I have commits ~~somewhere else~~. Trust me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### Java Online Projects courses:
+#### TopJava:                  https://github.com/wojtk-maksim/topjava
+#### TopJava's final project:  https://github.com/wojtk-maksim/restaurant-voting-app
+#### MasterJava:               https://github.com/wojtk-maksim/masterjava
+
 
 <!--
 **wojtk-maksim/wojtk-maksim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
