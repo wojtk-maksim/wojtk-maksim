@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello world!
+### I'm a Java developer.
+#### Java Online Projects courses:
+#### TopJava:                  https://github.com/wojtk-maksim/topjava
+#### TopJava's final project:  https://github.com/wojtk-maksim/restaurant-voting-app
+#### MasterJava:               https://github.com/wojtk-maksim/masterjava
+
 
 <!--
 **wojtk-maksim/wojtk-maksim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
